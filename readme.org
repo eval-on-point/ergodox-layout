@@ -1,0 +1,2 @@
+* README
+Highly based on [[https://github.com/algernon/ergodox-layout][algernon's layout]].
